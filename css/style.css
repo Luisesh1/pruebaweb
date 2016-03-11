@@ -1,0 +1,15 @@
+.clase1{
+  background-color: black;
+  color: white;
+}
+div{
+  border: 4px;
+  border-style: solid;
+  border-color: yellow;
+  background-color: red;
+}
+#principal{
+  border: 2px;
+  border-color: #438392;
+  border-style: solid;
+}
