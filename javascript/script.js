@@ -1,3 +1,3 @@
 
-var cosa=document.getElementById("principal").innerHTML;
-console.log(document.getElementById("principal").innerHTML);
+var cosa=document.getElementById("principal").innerHTML="hola";
+console.log(cosa);
